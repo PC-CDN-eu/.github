@@ -8,14 +8,14 @@ https://github.com/orgs/PC-CDN/repositories
 ![](https://github.com/PC-CDN-eu.png?size=60)  
 https://github.com/orgs/PC-CDN-eu/repositories  
 
-![](https://github.com/PfeifferChPT.png?size=60)  
-https://github.com/orgs/PfeifferChPT/repositories  
+![](https://github.com/PfeifferCh-PT.png?size=60)  
+https://github.com/orgs/PfeifferCh-PT/repositories  
 
-![](https://github.com/PfeifferChMX.png?size=60)  
-https://github.com/orgs/PfeifferChMX/repositories  
+![](https://github.com/PfeifferCh-MX.png?size=60)  
+https://github.com/orgs/PfeifferCh-MX/repositories  
 
-![](https://github.com/PfeifferChsForks.png?size=60)  
-https://github.com/orgs/PfeifferChsForks/repositories
+![](https://github.com/PfeifferCh-Forks.png?size=60)  
+https://github.com/orgs/PfeifferCh-Forks/repositories
 
 ## Co Pilot:  
 
